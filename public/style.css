@@ -1,0 +1,41 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.app {
+  /* background-color: #23252c; */
+}
+
+.container {
+  background-color: #f5f5f5;
+  padding: 0 40%;
+}
+
+img {
+  width: 317px;
+  /* height: 317px; */
+}
+
+.details {
+  text-align: center;
+}
+
+.details h3 {
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  margin: 0;
+}
+
+.details p {
+  font-size: 12.8px;
+  line-height: 15px;
+  color: #f47d27;
+  margin: 0;
+}
+
+small {
+  font-size: 10.24px;
+  line-height: 150%;
+}
