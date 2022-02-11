@@ -2,9 +2,7 @@ body {
   font-family: "Inter", sans-serif;
 }
 
-.app {
-  /* background-color: #23252c; */
-}
+
 
 .container {
   background-color: #f5f5f5;
@@ -38,4 +36,13 @@ img {
 small {
   font-size: 10.24px;
   line-height: 150%;
+}
+
+.about-title {
+    font-size: 16px;
+}
+
+.about-text {
+    font-size: 10.24px;
+    line-height: 150%;
 }
